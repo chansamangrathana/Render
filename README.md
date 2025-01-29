@@ -1,3 +1,4 @@
+![logo](https://github.com/chansamangrathana/Render/tree/main)
 <h1 align="center">Hi 👋, I'm Chana Samangrathana</h1>
 <h3 align="center">Information Technology</h3>
 
